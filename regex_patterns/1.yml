@@ -1,0 +1,9 @@
+id: 1
+name: 'test'
+description: 'test'
+tags:
+  - test
+pattern: 'test'
+regex101Link: ''
+date_created: '2024-09-03T12:52:16.312075'
+date_modified: '2024-09-03T12:52:16.312361'

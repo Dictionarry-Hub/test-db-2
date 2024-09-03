@@ -1,0 +1,10 @@
+id: 1
+name: test
+description: test
+date_created: '2024-09-03T12:52:36.525445'
+date_modified: '2024-09-03T12:52:36.525459'
+tags:
+- test
+custom_formats:
+- id: 1
+  score: 10

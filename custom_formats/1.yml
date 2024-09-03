@@ -1,0 +1,13 @@
+id: 1
+name: test
+description: test
+date_created: '2024-09-03T12:52:28.117836'
+date_modified: '2024-09-03T12:52:28.117853'
+conditions:
+- type: regex
+  name: test
+  negate: false
+  required: true
+  regex_id: 1
+tags:
+- test
